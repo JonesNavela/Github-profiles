@@ -1,2 +1,2 @@
-# Github-profiles (https://githubprofiles.layersavenuesoftware.co.za/)
+### Github-profiles (https://githubprofiles.layersavenuesoftware.co.za/)
 A website that allows you to search for github profiles/users.
